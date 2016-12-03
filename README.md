@@ -1,2 +1,2 @@
 # OS
-learing to make OS 
+learn to make OS 
